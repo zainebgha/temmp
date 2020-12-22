@@ -3,4 +3,5 @@
 	filemode = false
 	bare = true
 	symlinks = false
-	ignorecase = true
+	ignorecase = true 
+
